@@ -1,8 +1,16 @@
 What is Oson?
 Fast, compatible, secure, html5 building block set.
 This not a toolkit like jquery. It's a incomplete collection of routines. 
-Not easy. Just professional.
+Not easy. Just professional. Not a big deal.
 
-!!!!!Not for beginners!!!!!
+
 !!!!!If you are not a good javascript programmer is not right for you!!!!!!
-!!!!!We do not answer questions!!!!!
+
+
+Why? Story.
+
+2 years ago I started a HTML5 project. The goal was a simple interactive user interface. Which can not wait for the server response. He treats the background. Like gmail. It's not too complicated. I started to walk in the normal way. Following the advice. First of jquery. Then I collected the javascripts. 2 months later i had 24 javascripttoolkit. This was not a problem. But the upgrade of the system. A real surprise. I saw my project went into chaos.
+The genius dominates the chaos. But I'm an idiot. So I wrote a custom system. 7 main function, and a few sub function. (Plus an Internet Explorer Compatibility Toolkit.) (The server side OSON systems (OSONphp, OSONADAaws, OSONpython)not part of OSON. )
+I did not want to change the javascript language. (like jquery) I just want a few extra items.
+So you ask why OSON? 
+Because with OSON you can work faster.
